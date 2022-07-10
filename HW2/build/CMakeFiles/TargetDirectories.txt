@@ -1,0 +1,3 @@
+C:/Users/Алексей/Downloads/otus-cpp-basic-HomeWork/HW2/build/CMakeFiles/hello_world.dir
+C:/Users/Алексей/Downloads/otus-cpp-basic-HomeWork/HW2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Алексей/Downloads/otus-cpp-basic-HomeWork/HW2/build/CMakeFiles/ZERO_CHECK.dir

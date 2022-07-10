@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Алексей\Downloads\otus-cpp-basic-HomeWork\HW2\hello_world.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Алексей\Downloads\otus-cpp-basic-HomeWork\HW2\move_me_out.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Алексей\Downloads\otus-cpp-basic-HomeWork\HW2\example.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Алексей\Downloads\otus-cpp-basic-HomeWork\HW2\example.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Алексей\Downloads\otus-cpp-basic-HomeWork\HW2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7179BA74-9EAB-34E7-B71A-F18761CC79C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FD5FAAE1-D552-3F51-B78D-A50EC142630B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\АЛЕКСЕЙ\DOWNLOADS\OTUS-CPP-BASIC-HOMEWORK\HW2\BUILD\CMAKEFILES\6FDFC49388A752CC4C1656B065EF83FC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Алексей/Downloads/otus-cpp-basic-HomeWork/HW2 -BC:/Users/Алексей/Downloads/otus-cpp-basic-HomeWork/HW2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Алексей/Downloads/otus-cpp-basic-HomeWork/HW2/build/01.hello_world.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
