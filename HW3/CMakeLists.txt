@@ -8,12 +8,10 @@ schet.cpp
 rand.cpp
 schet.h
 rand.h
+inout.cpp
+inout.h
 )
 
 target_compile_features(play PUBLIC cxx_std_17)
 
-if(MSVC)
-    target_compile_options(play PUBLIC  /W4 /WX)
-else()
-    target_compile_options(play PUBLIC -Wall -Wextra -Werror -pedantic)
-endif()
+
